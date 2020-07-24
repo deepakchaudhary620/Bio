@@ -12,23 +12,10 @@ border-width:5px;
 h1{
 color: #fe91ca;
 }
-h3{text-align: center;
+h3{
 color: #fe91ca;}
-.mohit{
 
-  margin-left: 500px;
-}
-.deepak{
-  margin-left: 400px;
-}
-.joshi{
-  margin-left: 400px;
-
-}
-.box1{
-  margin-top: 40px;
-margin-left: 20px;
-}
-.box2{margin-top: 100px;
-  margin-right: 25px;
+.container{
+padding-left: 2rem;
+line-height: 2rem;
 }
